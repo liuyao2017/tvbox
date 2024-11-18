@@ -51,6 +51,14 @@
         {
             "name": "0821",
             "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0821.json"
+        },
+        {
+            "name": "0914-no-sex",
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json"
+        },
+        {
+            "name": "0914-only-sex",
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json"
         }
     ]
 }
