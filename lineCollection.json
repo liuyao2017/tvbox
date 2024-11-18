@@ -47,6 +47,10 @@
         {
             "name": "讴歌",
             "url": "http://tv.nxog.top/m/"
+        },
+        {
+            "name": "0821",
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0821.json"
         }
     ]
 }
