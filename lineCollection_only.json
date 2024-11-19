@@ -57,8 +57,20 @@
             "url": "http://175.178.251.183:6689/tv.txt"
         },
         {
-            "name": "极速2G2H",
+            "name": "wwb521",
             "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json"
+        },
+        {
+            "name": "wwb521-only-sex",
+            "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json"
+        },
+        {
+            "name": "0914-no-sex",
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json"
+        },
+        {
+            "name": "0914-only-sex",
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json"
         }
     ]
 }
