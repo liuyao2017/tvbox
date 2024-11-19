@@ -55,6 +55,10 @@
         {
             "name": "极速2G2H",
             "url": "http://175.178.251.183:6689/tv.txt"
+        },
+        {
+            "name": "极速2G2H",
+            "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json"
         }
     ]
 }
