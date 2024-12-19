@@ -2,11 +2,11 @@
     "urls": [
         {
             "name": "饭太硬",
-            "url": "http://www.饭太硬.com/tv/"
+            "url": "http://www.饭太硬.com/tv"
         },
         {
             "name": "小米",
-            "url": "https://3450.kstore.space/DEMO.json"
+            "url": "http://www.mpanso.com/小米/DEMO.json"
         },
         {
             "name": "王小二",
@@ -34,15 +34,11 @@
         },
         {
             "name": "肥猫",
-            "url": "http://肥猫.live"
+            "url": "http://ceshi.肥猫.com/PandaQ"
         },
         {
             "name": "南风",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
-            "name": "小白",
-            "url": "http://bp.tvbox.cam/"
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
         {
             "name": "讴歌",
@@ -61,8 +57,8 @@
             "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json"
         },
         {
-            "name": "0914-no-sex",
-            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json"
+            "name": "zhangqun66",
+            "url": "https://jg.zhangqun66.com/zq/jgw.json"
         }
     ]
 }
